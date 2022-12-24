@@ -12,3 +12,17 @@ C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\BLL\obj\Debug\BusinessLogic.csproj.Cor
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\BLL\obj\Debug\BusinessLogic.csproj.CopyComplete
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\BLL\obj\Debug\BLL.dll
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\BLL\obj\Debug\BLL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\obj\Debug\BLL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\BLL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\BLL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\DAL.dll.config
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\BLL\obj\Debug\BusinessLogic.csproj.CopyComplete

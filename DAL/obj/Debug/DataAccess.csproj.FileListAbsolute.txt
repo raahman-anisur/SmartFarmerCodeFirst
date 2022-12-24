@@ -10,3 +10,17 @@ C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DataAccess.csproj.CoreCo
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DAL.dll
 C:\Users\Suvo\Desktop\ASP.NET\SmartFarmer\DAL\obj\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.dll.config
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\DAL.pdb
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DAL.Migrations.AdvisorAndOrderTableAdded.resources
+C:\Users\Suvo\Desktop\ASP.NET\SmartFarmerCodeFirst\DAL\obj\Debug\DataAccess.csproj.GenerateResource.cache

@@ -53,17 +53,27 @@
   <ItemGroup>
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="EF\FarmerContext.cs" />
+    <Compile Include="EF\Model\Advisor.cs" />
+    <Compile Include="EF\Model\Order.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
+    <Compile Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.cs" />
+    <Compile Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.designer.cs">
+      <DependentUpon>202212240522343_AdvisorAndOrderTableAdded.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\AdvisorRepo.cs" />
+    <Compile Include="Repos\OrderRepo.cs" />
+    <Compile Include="Repos\Repo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="EF\Models\" />
-    <Folder Include="Repos\" />
+    <EmbeddedResource Include="Migrations\202212240522343_AdvisorAndOrderTableAdded.resx">
+      <DependentUpon>202212240522343_AdvisorAndOrderTableAdded.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
