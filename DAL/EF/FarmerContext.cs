@@ -12,5 +12,8 @@ namespace DAL.EF
     {
         public DbSet<Advisor> Advisors { set; get; }
         public DbSet<Order> Orders { set; get; }
+        public DbSet<Farmer> Farmers { set; get; }
+        public DbSet<Equipment> Equipment { set; get; }
+        public DbSet<Loan> Loan { set; get; }   
     }
 }

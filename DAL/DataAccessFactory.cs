@@ -20,5 +20,21 @@ namespace DAL
         {
             return new OrderRepo();
         }
+        // Shadman
+
+        public static IRepo<Farmer, int, Farmer> FarmerDataAccess()
+        {
+            return new FarmerRepo();
+        }
+        public static IRepo<Equipment, int, Equipment> EquipmentDataAccess()
+        {
+            return new EquipmentRepo();
+        }
+        public static IRepo<Loan, int, Loan> LoanDataAccess()
+        {
+            return new LoanRepo();
+        }
+
     }
+    
 }
